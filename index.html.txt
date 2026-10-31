@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt">
 <head>
   <title>Dark Souls Remastered</title>
   <link rel="stylesheet" href="estilos.css">
