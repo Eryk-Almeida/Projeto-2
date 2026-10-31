@@ -16,4 +16,4 @@
     <div><li>    </li></div>
     <div><li>    </li></div>
   </ul>
-  <p> Se estiveres interessado sobre o jogo podes visitar <a href="https://en.wikipedia.org/wiki/Dark_Souls">
+  <p> Se estiveres interessado sobre o jogo podes visitar <a href="https://en.wikipedia.org/wiki/Dark_Souls"> esta pagina</a></p>
