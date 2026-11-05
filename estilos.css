@@ -7,7 +7,7 @@ h1, h2 {
     color: orange;
     background-color: gray;
     font-family: Arial;
-    margin: 20px;
+    margin: 50px;
 }
 
 p {
@@ -17,7 +17,7 @@ p {
 .destaque {
     background-color: gray;
     color: white;
-    margin: 20;
+    margin: 20px;
 }
 
 .combate {
