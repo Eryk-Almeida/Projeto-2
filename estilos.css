@@ -1,36 +1,34 @@
 body {
-    background-color: #3d4d64;
+    background-color: black;
     color: white;
 }
 
-h1 {
+h1, h2 {
     color: orange;
-    font-family: Arial;
     background-color: gray;
+    font-family: Arial;
 }
 
-h2 {
+p {
     color: white;
-    font-family: Arial;
-    background-color: gray;
 }
 
 .destaque {
     background-color: gray;
     color: white;
-    margin: 50px;
+    margin: 20px;
 }
 
 .combate {
-    color: #4b5f4e;
+    background-color: #4b5f4e;
 }
 
 .exploracao {
-    color: #4b5f4e;
+    background-color: #5c755f;
 }
 
 .armas {
-    color: #4b5f4e;
+    background-color: #384536;
 }
 /*
 1. Ainda não encontrei nenhuma regra CSS particularmente difícil.
