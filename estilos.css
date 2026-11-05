@@ -1,9 +1,15 @@
+
 body {
-    background-color: grey;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 h1 {
+    color: orange;
+    font-family: Arial;
+}
+
+h2 {
     color: orange;
     font-family: Arial;
 }
@@ -12,6 +18,28 @@ h1 {
     background-color: gray;
     margin: 20px;
 }
+
+.combate {
+    background-color: red;
+}
+
+.exploracao {
+    background-color: blue;
+}
+
+.armas {
+    background-color: green;
+}
+
+/*
+1. Ainda não encontrei nenhuma regra CSS particularmente difícil.
+
+2. O erro de sintaxe que encontrei foi esquecer uma chaveta.
+
+3. O href permite que, ao clicar num texto ou numa imagem,
+o utilizador seja redirecionado para outra página.
+*/
+
 
 
 /*
